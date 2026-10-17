@@ -1,0 +1,14 @@
+StarDict's dict ifo file
+version=2.4.2
+bookname=Lemma Greek Dictionary (el-en)
+wordcount=31143
+synwordcount=609175
+idxfilesize=859515
+author=Francisco Riordan
+email=cisco.riordan@gmail.com
+website=https://github.com/ciscoriordan/lemma
+description=Greek-English dictionary built from English Wiktionary (en.wiktionary.org), with full inflection lookup via .syn redirects.<br>License: CC-BY-SA 4.0 (inherited from Wiktionary).<br>Generator: kindling (https://github.com/ciscoriordan/kindling, MIT).
+date=2026-05-08
+sametypesequence=h
+
+lang=el-en
